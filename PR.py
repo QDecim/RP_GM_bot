@@ -1,3 +1,4 @@
+//Зроблемо Віталею для нашого ТГ <3
 import sqlite3
 import telebot
 
